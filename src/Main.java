@@ -5,6 +5,7 @@ public class Main {
         System.out.println("lol");
         System.out.println("sigma boy");
         System.out.println("Tenzin reeks");
+        System.out.println("Olaf and work in the same sentence?");
     }
 
 }
